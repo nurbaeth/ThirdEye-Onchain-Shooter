@@ -12,7 +12,7 @@ All logic — movement, shooting, eliminations — is stored and executed 100% o
 - Each player chooses a spawn point on a 10x10 map
 - Players can move or shoot each turn
 - Shooting happens in straight lines — no random chance
-- Last player alive wins the round!
+- Last player alive wins the round! 
 
 ---
 
